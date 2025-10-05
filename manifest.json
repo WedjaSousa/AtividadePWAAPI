@@ -1,0 +1,18 @@
+{
+  "name": "Álbum Memórias - Capture Memórias",
+  "short_name": "Álbum Memórias",
+  "description": "Capture fotos e adicione citações inspiradoras ao seu diário visual",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
